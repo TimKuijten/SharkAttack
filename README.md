@@ -1,7 +1,5 @@
 The influence of the movie Shark Tale on shark attacks
 
-![image](https://user-images.githubusercontent.com/121023453/215592868-b263d605-67d5-44ba-b7f3-32473513e434.png)
-
 Intro:
 Sharks always had a fierce and intimidating reputation until the movie Shark Tale came out (01 Nov 2004), a movie that ridiculed sharks, specially White sharks, and made fun of them on the big screen. Did the (white) sharks feel like they had to prove themselves after this movie damaged their reputation? Hypothesis:
 
@@ -18,5 +16,3 @@ After cleaning and organising the data, we compared the charts to confirm or rej
 
 Conclusion:
 After this analysis we can conclude that White sharks felt offended by the way they were portraited in the movie Shark Tale. They had to do what they could do to get their fierce and killer reputation back; attack more people. About a year after the movie's release, it reached it's peak and they calmed down again. Other species of sharks did not feel empathy for the way white sharks image was damaged, and they continued doing their own thing. There is no clear indication that the movie had influence on the activities people were doing while they were attacked.
-
-![image](https://user-images.githubusercontent.com/121023453/215592922-23e99308-30f7-48cc-830e-73c864d873a7.png)
